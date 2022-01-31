@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: Easylodge
+author:
+  name: charlesl76
+  email: c.lefebvre76000@gmail.com
+theme: minimal
+minima:
+  social_links:
+    github: charlesl76
